@@ -1,0 +1,30 @@
+[
+    {
+      "descripcion": "Era el clásico español en su máximo esplendor, con Mourinho en el Madrid y Guardiola en el Barca. El partido de ida quedo 0-2 (goles de Messi y Pedro) y el de vuelta quedo 1-1 (gol de Marcelo; de Messi)",
+      "imagen": "imagenes/barcelona-10-11.jpg"
+    },
+    {
+      "descripcion": "El resultado del partido de ida fue 1-2 (goles de Özil y Benzema; de Ribery y Gómez), en la vuelta el resultado fue 2-1 (goles de CR7 x2; de Robben). En penales Cristiano, Kaká y Ramos fallaron; solo Benzema anotó. El Bayern avanzó.",
+      "imagen": "imagenes/bayern-11-12.jpg"
+    },
+    {
+      "descripcion": "El Madrid, campeón defensor (La Décima en 2014), enfrentó a una Juve sólida. El partido de ida tuvo como resultado 1-2 (gol de CR7; de Morata y Tevez) y el partido de vuelta fue 1-1 (gol de CR7; de Morata)",
+      "imagen": "imagenes/juventus-14-15.jpg"
+    },
+    {
+      "descripcion": "El resultado del partido de ida fue 1-2 (gol de Benzema; de Ziyech y Neres), el partido de vuelta fue 1-4 (gol de Asensio; de Tadić, Ziyech, Schöne y Neres). Una de las peores derrotas del Madrid en Europa.",
+      "imagen": "imagenes/ajax-18-19.jpg"
+    },
+    {
+      "descripcion": "Partido de ida pospuesto por la pandemia COVID-19. el partido de ida quedo 1-2 (gol de Isco; de Gabriel Jesús y De Bruyne). El Madrid cayó en casa. El partido de vuelta quedo 1-2 (gol de Benzema; de Sterling y Gabriel Jesús).",
+      "imagen": "imagenes/manchester-city-19-20.jpg"
+    },
+    {
+      "descripcion": "El Madrid, campeón en 2022, enfrentó al City, el resultado del partido de ida fue 1-1 (gol de Vinícius; de De Bruyne), el partido de vuelta quedo 0-4 (goles de Silva x2, Akanji y Álvarez)",
+      "imagen": "imagenes/manchester-city-22-23.jpg"
+    },
+    {
+      "descripcion": "Con un marcador global de 5-1. 3 - 0 en la ida (goles de rice x2, merino). el partido de vuelta quedo 1 - 2 (goles de saka, martinelli , vinicius) ",
+      "imagen": "imagenes/rice.jpg"
+    }
+    ]

@@ -1,0 +1,485 @@
+[
+    {
+      "nombre": "Porto",
+      "pais": "Portugal",
+      "titulos": [
+        {
+          "año": 1987,
+          "nombreGoleador": "Rabah Madjer",
+          "cantidadGoles": 4
+        },
+        {
+          "año": 2004,
+          "nombreGoleador": "Derlei",
+          "cantidadGoles": 5
+        }
+      ]
+    },
+    {
+      "nombre": "Manchester United",
+      "pais": "Inglaterra",
+      "titulos": [
+        {
+          "año": 1968,
+          "nombreGoleador": "George Best",
+          "cantidadGoles": 6
+        },
+        {
+          "año": 1999,
+          "nombreGoleador": "Dwight Yorke",
+          "cantidadGoles": 8
+        },
+        {
+          "año": 2008,
+          "nombreGoleador": "Cristiano Ronaldo",
+          "cantidadGoles": 8
+        }
+      ]
+    },
+    {
+      "nombre": "Feyenoord",
+      "pais": "Países Bajos",
+      "titulos": [
+        {
+          "año": 1970,
+          "nombreGoleador": "Ove Kindvall",
+          "cantidadGoles": 7
+        }
+      ]
+    },
+    {
+      "nombre": "AC Milan",
+      "pais": "Italia",
+      "titulos": [
+        {
+          "año": 1963,
+          "nombreGoleador": "José Altafini",
+          "cantidadGoles": 14
+        },
+        {
+          "año": 1969,
+          "nombreGoleador": "Pierino Prati",
+          "cantidadGoles": 6
+        },
+        {
+          "año": 1989,
+          "nombreGoleador": "Marco van Basten",
+          "cantidadGoles": 10
+        },
+        {
+          "año": 1990,
+          "nombreGoleador": "Marco van Basten",
+          "cantidadGoles": 3
+        },
+        {
+          "año": 1994,
+          "nombreGoleador": "Daniele Massaro",
+          "cantidadGoles": 3
+        },
+        {
+          "año": 2003,
+          "nombreGoleador": "Filippo Inzaghi",
+          "cantidadGoles": 12
+        },
+        {
+          "año": 2007,
+          "nombreGoleador": "Kaká",
+          "cantidadGoles": 10
+        }
+      ]
+    },
+    {
+      "nombre": "Estrella Roja",
+      "pais": "Serbia",
+      "titulos": [
+        {
+          "año": 1991,
+          "nombreGoleador": "Darko Pančev",
+          "cantidadGoles": 5
+        }
+      ]
+    },
+    {
+      "nombre": "Liverpool",
+      "pais": "Inglaterra",
+      "titulos": [
+        {
+          "año": 1977,
+          "nombreGoleador": "Kevin Keegan",
+          "cantidadGoles": 5
+        },
+        {
+          "año": 1978,
+          "nombreGoleador": "Kenny Dalglish",
+          "cantidadGoles": 4
+        },
+        {
+          "año": 1981,
+          "nombreGoleador": "Terry McDermott",
+          "cantidadGoles": 3
+        },
+        {
+          "año": 1984,
+          "nombreGoleador": "Ian Rush",
+          "cantidadGoles": 5
+        },
+        {
+          "año": 2005,
+          "nombreGoleador": "Steven Gerrard",
+          "cantidadGoles": 7
+        },
+        {
+          "año": 2019,
+          "nombreGoleador": "Mohamed Salah",
+          "cantidadGoles": 5
+        }
+      ]
+    },
+    {
+      "nombre": "Benfica",
+      "pais": "Portugal",
+      "titulos": [
+        {
+          "año": 1961,
+          "nombreGoleador": "José Águas",
+          "cantidadGoles": 11
+        },
+        {
+          "año": 1962,
+          "nombreGoleador": "Eusébio",
+          "cantidadGoles": 5
+        }
+      ]
+    },
+    {
+      "nombre": "Hamburgo",
+      "pais": "Alemania",
+      "titulos": [
+        {
+          "año": 1983,
+          "nombreGoleador": "Horst Hrubesch",
+          "cantidadGoles": 6
+        }
+      ]
+    },
+    {
+      "nombre": "Barcelona",
+      "pais": "España",
+      "titulos": [
+        {
+          "año": 1992,
+          "nombreGoleador": "Hristo Stoichkov",
+          "cantidadGoles": 4
+        },
+        {
+          "año": 2006,
+          "nombreGoleador": "Samuel Eto'o",
+          "cantidadGoles": 6
+        },
+        {
+          "año": 2009,
+          "nombreGoleador": "Lionel Messi",
+          "cantidadGoles": 9
+        },
+        {
+          "año": 2011,
+          "nombreGoleador": "Lionel Messi",
+          "cantidadGoles": 12
+        },
+        {
+          "año": 2015,
+          "nombreGoleador": "Lionel Messi",
+          "cantidadGoles": 10
+        }
+      ]
+    },
+    {
+      "nombre": "Nottingham Forest",
+      "pais": "Inglaterra",
+      "titulos": [
+        {
+          "año": 1979,
+          "nombreGoleador": "Garry Birtles",
+          "cantidadGoles": 2
+        },
+        {
+          "año": 1980,
+          "nombreGoleador": "John Robertson",
+          "cantidadGoles": 2
+        }
+      ]
+    },
+    {
+      "nombre": "Chelsea",
+      "pais": "Inglaterra",
+      "titulos": [
+        {
+          "año": 2012,
+          "nombreGoleador": "Didier Drogba",
+          "cantidadGoles": 6
+        },
+        {
+          "año": 2021,
+          "nombreGoleador": "Olivier Giroud",
+          "cantidadGoles": 6
+        }
+      ]
+    },
+    {
+      "nombre": "Bayern Múnich",
+      "pais": "Alemania",
+      "titulos": [
+        {
+          "año": 1974,
+          "nombreGoleador": "Gerd Müller",
+          "cantidadGoles": 8
+        },
+        {
+          "año": 1975,
+          "nombreGoleador": "Gerd Müller",
+          "cantidadGoles": 5
+        },
+        {
+          "año": 1976,
+          "nombreGoleador": "Gerd Müller",
+          "cantidadGoles": 5
+        },
+        {
+          "año": 2001,
+          "nombreGoleador": "Giovane Élber",
+          "cantidadGoles": 6
+        },
+        {
+          "año": 2013,
+          "nombreGoleador": "Thomas Müller",
+          "cantidadGoles": 8
+        },
+        {
+          "año": 2020,
+          "nombreGoleador": "Robert Lewandowski",
+          "cantidadGoles": 15
+        }
+      ]
+    },
+    {
+      "nombre": "Steaua Bucarest",
+      "pais": "Rumanía",
+      "titulos": [
+        {
+          "año": 1986,
+          "nombreGoleador": "Victor Pițurcă",
+          "cantidadGoles": 4
+        }
+      ]
+    },
+    {
+      "nombre": "Marseille",
+      "pais": "Francia",
+      "titulos": [
+        {
+          "año": 1993,
+          "nombreGoleador": "Franck Sauzée",
+          "cantidadGoles": 3
+        }
+      ]
+    },
+    {
+      "nombre": "Inter de Milán",
+      "pais": "Italia",
+      "titulos": [
+        {
+          "año": 1964,
+          "nombreGoleador": "Sandro Mazzola",
+          "cantidadGoles": 7
+        },
+        {
+          "año": 1965,
+          "nombreGoleador": "Jair da Costa",
+          "cantidadGoles": 5
+        },
+        {
+          "año": 2010,
+          "nombreGoleador": "Diego Milito",
+          "cantidadGoles": 6
+        }
+      ]
+    },
+    {
+      "nombre": "Real Madrid",
+      "pais": "España",
+      "titulos": [
+        {
+          "año": 1956,
+          "nombreGoleador": "Alfredo Di Stéfano",
+          "cantidadGoles": 5
+        },
+        {
+          "año": 1957,
+          "nombreGoleador": "Alfredo Di Stéfano",
+          "cantidadGoles": 7
+        },
+        {
+          "año": 1958,
+          "nombreGoleador": "Alfredo Di Stéfano",
+          "cantidadGoles": 10
+        },
+        {
+          "año": 1959,
+          "nombreGoleador": "Alfredo Di Stéfano",
+          "cantidadGoles": 6
+        },
+        {
+          "año": 1960,
+          "nombreGoleador": "Ferenc Puskás",
+          "cantidadGoles": 12
+        },
+        {
+          "año": 1966,
+          "nombreGoleador": "Ferenc Puskás",
+          "cantidadGoles": 7
+        },
+        {
+          "año": 1998,
+          "nombreGoleador": "Fernando Morientes",
+          "cantidadGoles": 4
+        },
+        {
+          "año": 2000,
+          "nombreGoleador": "Raúl González",
+          "cantidadGoles": 10
+        },
+        {
+          "año": 2002,
+          "nombreGoleador": "Raúl González",
+          "cantidadGoles": 6
+        },
+        {
+          "año": 2014,
+          "nombreGoleador": "Cristiano Ronaldo",
+          "cantidadGoles": 17
+        },
+        {
+          "año": 2016,
+          "nombreGoleador": "Cristiano Ronaldo",
+          "cantidadGoles": 16
+        },
+        {
+          "año": 2017,
+          "nombreGoleador": "Cristiano Ronaldo",
+          "cantidadGoles": 12
+        },
+        {
+          "año": 2018,
+          "nombreGoleador": "Cristiano Ronaldo",
+          "cantidadGoles": 15
+        },
+        {
+          "año": 2022,
+          "nombreGoleador": "Karim Benzema",
+          "cantidadGoles": 15
+        },
+        {
+          "año": 2024,
+          "nombreGoleador": "Vinícius Júnior",
+          "cantidadGoles": 6
+        }
+      ]
+    },
+    {
+      "nombre": "Aston Villa",
+      "pais": "Inglaterra",
+      "titulos": [
+        {
+          "año": 1982,
+          "nombreGoleador": "Peter Withe",
+          "cantidadGoles": 4
+        }
+      ]
+    },
+    {
+      "nombre": "Juventus",
+      "pais": "Italia",
+      "titulos": [
+        {
+          "año": 1985,
+          "nombreGoleador": "Michel Platini",
+          "cantidadGoles": 7
+        },
+        {
+          "año": 1996,
+          "nombreGoleador": "Alessandro Del Piero",
+          "cantidadGoles": 6
+        }
+      ]
+    },
+    {
+      "nombre": "Ajax",
+      "pais": "Países Bajos",
+      "titulos": [
+        {
+          "año": 1971,
+          "nombreGoleador": "Dick van Dijk",
+          "cantidadGoles": 6
+        },
+        {
+          "año": 1972,
+          "nombreGoleador": "Johan Cruyff",
+          "cantidadGoles": 5
+        },
+        {
+          "año": 1973,
+          "nombreGoleador": "Gerrie Mühren",
+          "cantidadGoles": 5
+        },
+        {
+          "año": 1995,
+          "nombreGoleador": "Jari Litmanen",
+          "cantidadGoles": 6
+        }
+      ]
+    },
+    {
+      "nombre": "Borussia Dortmund",
+      "pais": "Alemania",
+      "titulos": [
+        {
+          "año": 1997,
+          "nombreGoleador": "Karl-Heinz Riedle",
+          "cantidadGoles": 6
+        }
+      ]
+    },
+    {
+      "nombre": "PSV Eindhoven",
+      "pais": "Países Bajos",
+      "titulos": [
+        {
+          "año": 1988,
+          "nombreGoleador": "Romário",
+          "cantidadGoles": 6
+        }
+      ]
+    },
+    {
+      "nombre": "Manchester City",
+      "pais": "Inglaterra",
+      "titulos": [
+        {
+          "año": 2023,
+          "nombreGoleador": "Erling Haaland",
+          "cantidadGoles": 12
+        }
+      ]
+    },
+    {
+      "nombre": "Celtic",
+      "pais": "Escocia",
+      "titulos": [
+        {
+          "año": 1967,
+          "nombreGoleador": "Stevie Chalmers",
+          "cantidadGoles": 5
+        }
+      ]
+    }
+]
